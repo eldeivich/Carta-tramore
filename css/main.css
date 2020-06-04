@@ -160,7 +160,7 @@ a {
     width: 7em;
     height: 7em;
     top: 4px;
-    left: 55px;
+    left: -47px;
   }
 
   #idiomas {
@@ -226,6 +226,9 @@ a {
     padding: 9px;
     background: #c39d63;
     z-index: -5;
+    position: relative;
+    top: 35px;
+    left: 0px;
   }
 
   #intro .botones {
