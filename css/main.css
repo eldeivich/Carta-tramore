@@ -222,6 +222,11 @@ a {
     z-index: -5;
   }
 
+  #intro .bebida {
+    position: relative;
+    top: 25px;
+  }
+
   #intro .monologo {
     color: #fff;
     padding: 9px;
