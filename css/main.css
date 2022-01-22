@@ -225,6 +225,7 @@ a {
   #intro .monologo {
     color: #fff;
     padding: 9px;
+    margin-bottom: 30px;
     background: #c39d63;
     z-index: -5;
     position: relative;
